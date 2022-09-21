@@ -36,6 +36,13 @@ Dados SQL e projetos práticos baseados em grandes cases de mercado.
 
 ---
 
+<h2 align="center">Certificados</h1>
+
+- [Certificado de conclusão do módulo Introdução ao Git GitHub](./Certificados/Certificado_Introdução_Git_GitHub.pdf)
+- [Certificado de entrega do desafio técnico do módulo Introdução ao Git GitHub](./Certificados/Certificado_de_Entrega_do_Primeiro_Projeto.pdf)
+
+---
+
 Desde já agradeço por estar aqui e qualquer dúvida sobre minha evolução, não
 hesite em entrar em contato.
 
