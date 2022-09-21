@@ -11,6 +11,8 @@ seguindo os passos a seguir:
 - No botão "Main", logo acima, acesse a lista de branches referentes a cada
   módulo do bootcamp.
 
+  ![Selecionando uma Branch](./img/2022-09-21_10-32.png) 
+
 - Dentro de cada módulo, você encontrará os exercícios de fixação e desafios
   técnicos referentes ao módulo.
 
